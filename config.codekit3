@@ -25,6 +25,14 @@
 		"oAP": "/browserconfig.xml",
 		"oF": 0
 		},
+	"/build/.gitignore": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/build/.gitignore",
+		"oF": 0
+		},
 	"/CNAME": {
 		"cB": 0,
 		"ft": 8192,
@@ -32,6 +40,16 @@
 		"oA": 2,
 		"oAP": "/CNAME",
 		"oF": 0
+		},
+	"/css/main.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/css/main-min.css",
+		"oF": 0,
+		"oS": 3
 		},
 	"/css/main.scss": {
 		"aP": 0,
@@ -46,6 +64,16 @@
 		"oS": 0,
 		"sct": 0
 		},
+	"/css/normalize-min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/css/normalize-min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
 	"/css/normalize.css": {
 		"aP": 1,
 		"bl": 0,
@@ -55,6 +83,14 @@
 		"oAP": "/css/normalize-min.css",
 		"oF": 0,
 		"oS": 3
+		},
+	"/doc/css.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/doc/css.html",
+		"oF": 0
 		},
 	"/doc/css.md": {
 		"cB": 0,
@@ -75,6 +111,14 @@
 		"rFN": 0,
 		"uCM": 0
 		},
+	"/doc/extend.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/doc/extend.html",
+		"oF": 0
+		},
 	"/doc/extend.md": {
 		"cB": 0,
 		"cS": 0,
@@ -93,6 +137,14 @@
 		"pME": 1,
 		"rFN": 0,
 		"uCM": 0
+		},
+	"/doc/faq.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/doc/faq.html",
+		"oF": 0
 		},
 	"/doc/faq.md": {
 		"cB": 0,
@@ -113,6 +165,14 @@
 		"rFN": 0,
 		"uCM": 0
 		},
+	"/doc/html.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/doc/html.html",
+		"oF": 0
+		},
 	"/doc/html.md": {
 		"cB": 0,
 		"cS": 0,
@@ -131,6 +191,14 @@
 		"pME": 1,
 		"rFN": 0,
 		"uCM": 0
+		},
+	"/doc/js.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/doc/js.html",
+		"oF": 0
 		},
 	"/doc/js.md": {
 		"cB": 0,
@@ -151,6 +219,14 @@
 		"rFN": 0,
 		"uCM": 0
 		},
+	"/doc/misc.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/doc/misc.html",
+		"oF": 0
+		},
 	"/doc/misc.md": {
 		"cB": 0,
 		"cS": 0,
@@ -169,6 +245,14 @@
 		"pME": 1,
 		"rFN": 0,
 		"uCM": 0
+		},
+	"/doc/TOC.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/doc/TOC.html",
+		"oF": 0
 		},
 	"/doc/TOC.md": {
 		"cB": 0,
@@ -189,6 +273,14 @@
 		"rFN": 0,
 		"uCM": 0
 		},
+	"/doc/usage.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/doc/usage.html",
+		"oF": 0
+		},
 	"/doc/usage.md": {
 		"cB": 0,
 		"cS": 0,
@@ -207,14 +299,6 @@
 		"pME": 1,
 		"rFN": 0,
 		"uCM": 0
-		},
-	"/favicon.ico": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/favicon.ico",
-		"oF": 0
 		},
 	"/humans.txt": {
 		"cB": 0,
@@ -251,6 +335,17 @@
 		"oAP": "/index.html",
 		"oF": 0
 		},
+	"/js/main-min.js": {
+		"bF": 4,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/js/main-min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
 	"/js/main.js": {
 		"bF": 4,
 		"ft": 64,
@@ -262,6 +357,17 @@
 		"sC": 1,
 		"tS": 0
 		},
+	"/js/plugins-min.js": {
+		"bF": 4,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/js/plugins-min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
 	"/js/plugins.js": {
 		"bF": 4,
 		"ft": 64,
@@ -269,6 +375,17 @@
 		"mi": 1,
 		"oA": 0,
 		"oAP": "/js/plugins-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"/js/vendor/modernizr-3.11.2.min-min.js": {
+		"bF": 4,
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "/js/vendor/modernizr-3.11.2.min-min-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -307,6 +424,14 @@
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
+		},
+	"/README.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/README.html",
+		"oF": 0
 		},
 	"/README.md": {
 		"cB": 0,
