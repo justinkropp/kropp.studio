@@ -1,3 +1,7 @@
+// Variables
+$black: rgba(0, 0, 0, 0.99);
+$white: rgba(255, 255, 255, 0.99);
+
 * {
   box-sizing: border-box;
   -webkit-font-smoothing: antialiased;
@@ -6,15 +10,51 @@
 
 html,
 body {
-  height: 100%;
   margin: 0;
   padding: 0;
-  font-family:"Scala", serif;
 }
 
 body {
   width: 100%;
   height: 100vh;
-  background: #E84E2D;
-  border: 1em solid #fff;
+  margin: 0;
+  font-family: Helvetica, -apple-system,BlinkMacSystemFont,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;
+  -webkit-text-size-adjust: 100%;
+      -ms-text-size-adjust: 100%;
+  background: $black;
+}
+
+a {
+  color: rgba($white, 0.75);
+  text-decoration: none;
+  border-bottom: 2px solid rgba($white, 0.10);
+  transition: all 160ms ease;
+  &:hover {
+    border-bottom: 2px solid rgba($white, 0.75);
+  }
+}
+
+main {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-content: flex-end;
+  justify-content: flex-end;
+  padding: 5em;
+  section {
+    max-width: 25em;
+    article {
+      p {
+        margin-top: 0;
+        font-size: 1.24rem;
+        line-height: 1.35;
+        font-weight: 500;
+        color: rgba($white, 0.80);
+        &:last-child {
+          margin: 0;
+        }
+      }
+    }
+  }
 }

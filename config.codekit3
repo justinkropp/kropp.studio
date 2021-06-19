@@ -300,6 +300,14 @@
 		"rFN": 0,
 		"uCM": 0
 		},
+	"/favicon.ico": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/favicon.ico",
+		"oF": 0
+		},
 	"/humans.txt": {
 		"cB": 0,
 		"ft": 8192,
@@ -497,7 +505,7 @@
 	},
 "projectAttributes": {
 	"creationDate": 524688003,
-	"displayValue": "kropp",
+	"displayValue": "kropp.studio",
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "brackets-pale",
 	"iconImageWasSetByUser": 0,
